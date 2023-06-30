@@ -19,8 +19,8 @@ eat delicious food and do something useful.
 ## Education
 * The Colledge of Busines and Low, technician programmer.
 * Courses:
-^ Cursor
-^ Обучение HTML, CSS, JavaScript
+1 Cursor;
+2 Обучение HTML, CSS, JavaScript;
 ## English
 B1 (I have a practice of speaking english 
 because i taught it in college and 
