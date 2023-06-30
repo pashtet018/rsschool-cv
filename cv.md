@@ -17,8 +17,8 @@ eat delicious food and do something useful.
 ` $a = 5; $b = 10; $c = $a+$b; echo $c; `
 ## Experience
 ## Education
-- The Colledge of Busines and Low, technician programmer.
-- Courses:
+* The Colledge of Busines and Low, technician programmer.
+* Courses:
 + Cursor
 + Обучение HTML, CSS, JavaScript
 ## English
