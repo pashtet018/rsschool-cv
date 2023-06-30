@@ -14,13 +14,7 @@ eat delicious food and do something useful.
 - php
 - Git
 ## Code Example 
-```
-$a = 5;
-$b = 10;
-$c = $a+$b;
-```
-
-`echo $c;`
+` $a = 5; $b = 10; $c = $a+$b; echo $c; `
 ## Experience
 ## Education
 - The Colledge of Busines and Low, technician programmer.
@@ -28,6 +22,6 @@ $c = $a+$b;
 + Cursor
 + Обучение HTML, CSS, JavaScript
 ## English
-B1 (Ш have a practice of speaking english 
+B1 (I have a practice of speaking english 
 because i taught it in college and 
 spoke to foreigners in english).
